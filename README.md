@@ -1,5 +1,8 @@
 # 544-Robot-Kinematics
 
+Codebase with all the functions Rotation matrices, Quaternions, Newton-Euler, Jacobians, Jacobian Inverse, etc.
+
+Simulink models for 6DOF ABB Arm
 
 | Funtion Call | Description |
 | --- | --- |
